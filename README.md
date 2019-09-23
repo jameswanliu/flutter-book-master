@@ -1,6 +1,5 @@
 # flutterbook
-
-A new Flutter project.
+利用追书神器API 开发的一个小说App  基于Flutter 开发 
 
 ## Getting Started
 
